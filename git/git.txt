@@ -1,0 +1,7 @@
+Initializing a Git Repository
+    -git init    -- type this in the desired directory
+
+
+Uninitializing a Git Repository
+   -rm -rf .git
+
