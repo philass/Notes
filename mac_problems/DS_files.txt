@@ -1,0 +1,4 @@
+To get rid of DS store files
+
+$ find . -name ‘*.DS_Store’ -type f -delete
+
