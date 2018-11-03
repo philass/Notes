@@ -1,0 +1,14 @@
+The Stack
+
+MongoDB ->
+    A schema less NoSQL Database
+
+
+Express.js ->
+    A server side Javascript framework running on top of Node.js
+
+Angular ->
+    A browser independent MVC Javascript UI framework
+
+Node.js ->
+    a server-side Javascript run-time
