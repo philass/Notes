@@ -1,0 +1,14 @@
+Saturday, November 4th
+
+What did I do today?
+
+I started working on Get Lost. I decided that I wanted to use the MEAN stack, which constists of MongoDB, ExpressJS, Angular, and NodeJS. I found a good Youtube series. I wasn't very productive but at least I started something that I could build on moving forward.
+
+
+What did I learn?
+
+I wouldn't say I neccesarily learned anything. I just started to get a feel for how the Software Stack might work and a general feel for programming with servers and Databases.
+
+Any takeaways from the day?
+
+Start good habit? Maybe with a good bed time.
