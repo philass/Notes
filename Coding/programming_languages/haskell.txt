@@ -1,0 +1,7 @@
+Launch Haskell REPL with the following command
+
+stack exec ghci -- -W
+
+Compile and run a Haskell file with the following command
+
+stack ghc -- -W filename

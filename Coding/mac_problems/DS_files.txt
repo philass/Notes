@@ -2,3 +2,14 @@ To get rid of DS store files
 
 $ find . -name ‘*.DS_Store’ -type f -delete
 
+
+Ignores DS_Store files in git
+
+https://stackoverflow.com/a/26454988
+
+echo ".DS_Store" >> ~/.gitignore_global
+echo "._.DS_Store" >> ~/.gitignore_global
+echo "**/.DS_Store" >> ~/.gitignore_global
+echo "**/._.DS_Store" >> ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
+
