@@ -1,0 +1,17 @@
+An overview of some project ideas
+
+
+TallyUP - P2P sports Betting App
+
+GetLost - Social maps for visiting places in new cities
+
+VimGod - A tool to suggest ways to improve vim use based on users previous
+         Use patterns
+
+StatFloor - Use Machine Learning to make strong predictions
+
+  Fanduel - LineUp Selector
+
+  Texas Holdem - Make a Bought for online poker rooms
+
+
