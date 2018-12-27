@@ -1,0 +1,9 @@
+To compile a C file simply do the following
+
+$ gcc example.c -o example
+
+Then we can run the executable with the following
+
+$ ./example (and optionally with command line arguements here)
+
+
