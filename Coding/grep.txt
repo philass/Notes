@@ -1,0 +1,5 @@
+Look through a folder and all its subfolders with the command
+
+$grep -r "regular expression" .
+
+
