@@ -1,0 +1,19 @@
+Preamble
+
+Bash scripting is an extremely useful skill! But the language is whack.
+Its syntax in my opinion is extremely unintuitive. The only way I think
+I can really learn the language and have it at my fingers when I need it
+is by practicing it regularly. This means that I need to write scripts
+multiple times per week. Here are some ideas of scripts I could write
+
+
+- I have a common preamble in python files. Write a script to prepend
+this preamble to a python function
+
+- Automate 
+  git add *
+  git commit -m
+  git push
+
+
+

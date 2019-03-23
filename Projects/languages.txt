@@ -1,0 +1,33 @@
+Preamble
+
+I have learned a stupid amount of programming languages in my life. And I'm shit at all of them. 
+I've got to taste the different strokes and I think I have a better judge of the languages that I
+want to master.
+
+The following are the languages that I want to become extremely profficient at
+
+- Python 
+- Javascript
+- C/C++ 
+- Haskell
+- Erlang
+- Bash Scripting
+
+
+The languages that I have written programs in
+
+Javascript
+Java
+Python
+Ruby
+C++
+C
+Bash
+R
+Haskell
+Matlab
+Erlang
+Assembly
+SML
+Racket
+Prolog
