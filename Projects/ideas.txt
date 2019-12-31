@@ -15,3 +15,10 @@ StatFloor - Use Machine Learning to make strong predictions
   Texas Holdem - Make a Bought for online poker rooms
 
 Database - Implement a database system using the Søren approach
+
+
+Framework for making Apps for Kids
+  - Possibly small rabserrpi w keyboard and screen pre installed with program
+
+
+

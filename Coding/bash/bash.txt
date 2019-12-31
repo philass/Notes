@@ -1,0 +1,4 @@
+
+Get the first row of pds, then get the last 9 lines, then use them as the first argument to kill -9
+
+ps | awk '{print $1}' | tail -n9 | xargs -n1 kill -9

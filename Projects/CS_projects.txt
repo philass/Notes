@@ -1,0 +1,22 @@
+BIG PROJECTS THAT ARE MORE THAN JUST A WEB OR MOBILE APP
+
+
+Make a programming Language -> That serves a purpse
+  """
+  A more logical bash scripting language...
+
+  It should compile down to a bash script
+
+  motivation : Would force me to write a parser/compiler
+               Make me really understand the syntax of
+               bash scripting
+  """
+
+Build a Distributed Database -> That has a set of benchmarks for
+                                which it beats other DB solutions
+
+
+
+Build a Message Broker -> Better version of Kafka
+                          Write in C++
+                          IOT?

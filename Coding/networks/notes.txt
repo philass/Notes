@@ -1,0 +1,11 @@
+The Client Server Programming Model
+
+1. Client issues a requeust to the server
+
+2. Server recieves, interprets the request, and does actions accordingly
+
+3. Server sends a response, then waits for the next request
+
+4. Client recieves the response does actions accordingly
+
+
