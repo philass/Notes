@@ -1,0 +1,15 @@
+Cuda Issue
+
+Error 
+
+libc++abi.dylib: terminating with uncaught exception of type thrust::system::detail::bad_alloc: std::bad_alloc: cudaErrorInsufficientDriver: CUDA driver version is insufficient for CUDA runtime version
+
+helpful link
+Y 
+https://github.com/BVLC/caffe/issues/736
+
+Issue
+
+Driver with default CUDA install is out of date. Download the latest
+Actually was the case that can't run CUDA on mac because it has AMD and not NVIDEA GPUs
+
