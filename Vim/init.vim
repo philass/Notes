@@ -26,7 +26,9 @@ Plug 'pboettch/vim-cmake-syntax'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 
-
+Plug 'vim-jp/vim-cpp'
+Plug 'altercation/vim-colors-solarized'
+"
 " Previews Markdwon with <C-p>
 Plug 'JamshedVesuna/vim-markdown-preview'
 call plug#end()
@@ -35,3 +37,8 @@ let vim_markdown_preview_github=1
 
 set number
 set tabstop=2 shiftwidth=2 expandtab
+syntax enable
+set background=dark
+let g:solarized_termtrans = 1
+colorscheme solarized
+
